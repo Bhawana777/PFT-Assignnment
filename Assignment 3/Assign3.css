@@ -1,0 +1,64 @@
+* {
+    margin-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    /*background-color: rgb(233, 233, 233);*/
+}
+
+.navbar {
+    background-color: rgb(47, 47, 47);
+    height: 45px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 13px;
+    margin-left: 200px;
+}
+
+li {
+    display: inline;
+    padding: 15px;
+    font-size: 14px;
+}
+
+a {
+    color: rgb(213, 213, 213);
+    text-decoration: none;
+}
+
+#apple {
+    color: rgb(213, 213, 213);
+    margin-right: 10px;
+}
+
+#search {
+    color: rgb(213, 213, 213);
+    margin-left: 10px;
+}
+
+#bag {
+    color: rgb(213, 213, 213);
+    margin-left: 20px;
+}
+
+.page {
+    background-color: rgb(233, 233, 233);
+    width: 55%;
+    margin: auto;
+    padding: 100px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+div h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.second {
+    margin-left: 70px;
+    margin-right: 70px;
+}
